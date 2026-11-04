@@ -1,172 +1,82 @@
-# 🩸 VICTOR | DEVELOPER
-
+<!-- HEADER -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=700&height=80&lines=ACCESS+GRANTED%3A+VICTOR;Welcome+to+my+domain...;Welcome+to+the+world+of+Hellsing;Creating+something+beyond+the+ordinary." alt="ACCESS GRANTED: VICTOR" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:400000,70:8B0000,100:050505&height=190&section=header&text=VICTOR&fontSize=58&fontColor=E8E0E0&fontAlignY=40&animation=fadeIn&desc=%40vgpgod%20%E2%80%A2%20DEVELOPER%20IN%20PROGRESS&descAlignY=66&descSize=15" alt="Victor — vgpgod" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=FF334F&center=true&vCenter=true&width=650&height=45&lines=%3E+ACCESS+GRANTED%3A+VICTOR;%3E+BUILDING+IDEAS+INTO+REALITY;%3E+LEARNING.+BUILDING.+EVOLVING." alt="A linha de comando apresenta Victor" />
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:400000,70:8B0000,100:050505&height=180&section=header&text=VGPGOD&fontSize=55&fontColor=E8E0E0&fontAlignY=40&animation=fadeIn&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descAlignY=65&descSize=14" />
+<br />
 
-<br/>
-
-<a href="https://github.com/vgpgod">
-<img src="https://img.shields.io/badge/GITHUB-vgpgod-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
-</a>
-
-<a href="https://www.instagram.com/vkbatman/">
-<img src="https://img.shields.io/badge/INSTAGRAM-vkbatman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080808" />
-</a>
-
-<a href="https://discord.gg/UUeM8AEGTM">
-<img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=080808" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vgpgod&style=for-the-badge&color=8B0000&label=VISITORS)
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0033?style=flat-square&labelColor=080808" />
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-FF0033?style=flat-square&labelColor=080808" />
-<img src="https://img.shields.io/badge/STYLE-GOTHIC-FF0033?style=flat-square&labelColor=080808" />
+<a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GitHub-vgpgod-8B0000?style=for-the-badge&logo=github&logoColor=E8E0E0&labelColor=111111" alt="GitHub" /></a>
+<a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/Instagram-vkbatman-8B0000?style=for-the-badge&logo=instagram&logoColor=E8E0E0&labelColor=111111" alt="Instagram" /></a>
+<a href="https://discord.gg/UUeM8AEGTM"><img src="https://img.shields.io/badge/Discord-gms__tt-8B0000?style=for-the-badge&logo=discord&logoColor=E8E0E0&labelColor=111111" alt="Discord" /></a>
 
 </div>
 
 ---
 
-## `> ABOUT_ME`
+## > SOBRE MIM
 
-```python
-class Victor:
-    def __init__(self):
-        self.username = "vgpgod"
-        self.discord = "gms_tt"
-        self.role = "Developer in progress"
-        self.interests = [
-            "Programming",
-            "Technology",
-            "Game Development",
-            "Automation",
-            "Creative Projects"
-        ]
-        self.mindset = "Never stop evolving"
-
-    def say_hello(self):
-        return "Welcome to my domain."
+```text
+ACCESS GRANTED
+USER       : Victor (@vgpgod)
+STATUS     : aprendendo e evoluindo
+INTERESSES : programação · tecnologia · web · automação · jogos
 ```
 
-Sou Victor, um entusiasta de tecnologia e programação. Gosto de explorar novas possibilidades, desenvolver projetos próprios e transformar ideias em soluções reais.
+Sou um entusiasta de programação e tecnologia. Gosto de criar projetos próprios, experimentar ideias e aprender novas ferramentas construindo. Aqui compartilho projetos, estudos e coisas que estou desenvolvendo.
 
-Estou sempre buscando conhecimento, experimentando ferramentas e aprimorando minhas habilidades. Para mim, cada projeto é uma oportunidade de evoluir.
+> Cada projeto é mais uma oportunidade de aprender, melhorar e transformar uma ideia em algo real.
 
-> *"The night is darkest just before the dawn."*
-
----
-
-## `> TECHNOLOGIES`
+## > TECNOLOGIAS & FERRAMENTAS
 
 <div align="center">
 
-### ⚔️ Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,lua&theme=dark" />
-
-### 🩸 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
-
-### 🦇 Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,lua,html,css,react,vite,git,github,vscode,discord&theme=dark" alt="Python, JavaScript, Lua, HTML, CSS, React, Vite, Git, GitHub, VS Code e Discord" />
 
 </div>
 
----
+*Tecnologias que estudo, uso ou exploro nos meus projetos — esta lista representa meu ambiente e meus interesses, não níveis de domínio profissional.*
 
-## `> FEATURED_PROJECTS`
+## > PROJETOS EM DESTAQUE
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:400000&height=3&section=header" />
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚙️ GODS — Discord Bot
 
-<img align="right" width="80" src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+Bot desenvolvido em Python com ferramentas personalizadas, automações e recursos para comunidades no Discord.
 
-Bot desenvolvido em Python, com foco em automações, gerenciamento de servidores e funcionalidades personalizadas para comunidades Discord.
+</td>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+### 🩸 Vértice CRM
 
-### 🩸 VÉRTICE CRM
+CRM para lojas, com recursos para organizar clientes, vendas, estoque, entregas e financeiro.
 
-<img align="right" width="80" src="https://img.shields.io/badge/CRM-8B0000?style=for-the-badge&logo=react&logoColor=white" />
+[Conhecer o Vértice CRM →](https://www.isekaiblox.com.br/)
 
-Sistema CRM voltado para lojas de materiais de construção, com gerenciamento de clientes, vendas, entregas, estoque e controle financeiro.
+</td>
+</tr>
+</table>
 
-<div align="center">
+## > AGORA
 
-<a href="https://www.isekaiblox.com.br/">
-<img src="https://img.shields.io/badge/ACCESS-WEBSITE-FF0033?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080808" />
-</a>
-
-<a href="https://github.com/vgpgod?tab=repositories">
-<img src="https://img.shields.io/badge/MY-PROJECTS-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
-</a>
-
-</div>
-
----
-
-## `> CURRENT_MINDSET`
+```diff
++ aprendendo continuamente
++ construindo projetos próprios
++ explorando desenvolvimento web, automação e jogos
+```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&width=650&height=60&lines=Learning+is+an+endless+process.;Every+line+of+code+has+a+purpose.;Creating.+Improving.+Evolving.;There+is+always+more+to+discover." alt="Current mindset" />
+### “Keep learning. Keep building. Keep evolving.”
 
-<br/>
+<a href="https://github.com/vgpgod">github.com/vgpgod</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:400000,100:080808&height=2&section=header" />
-
-</div>
-
----
-
-## `> CONNECT`
-
-<div align="center">
-
-### 🩸 FIND ME
-
-<a href="https://github.com/vgpgod">
-<img src="https://img.shields.io/badge/GITHUB-@vgpgod-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
-</a>
-
-<a href="https://www.instagram.com/vkbatman/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@vkbatman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080808" />
-</a>
-
-<a href="https://discord.gg/UUeM8AEGTM">
-<img src="https://img.shields.io/badge/DISCORD-JOIN_MY_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=080808" />
-</a>
-
-<br/>
-
-**Discord:** `@gms_tt`
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF0033&center=true&vCenter=true&width=600&height=60&lines=while+(alive)+%7B+keep_building();+%7D;The+night+is+young...;Thanks+for+visiting+my+domain." alt="Footer animation" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:400000,100:050505&height=130&section=footer" />
-
-**`"Keep learning. Keep building. Keep evolving."`**
-
-<sub>🩸 H E L L S I N G | V G P G O D</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:400000,75:8B0000,100:050505&height=100&section=footer" alt="Faixa final em vermelho e preto" />
 
 </div>
