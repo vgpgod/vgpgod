@@ -76,23 +76,69 @@ Estou sempre explorando novas ferramentas, aprendendo linguagens e desenvolvendo
 
 <div align="center">
 
-**LANGUAGES**
+### 🩸 PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,javascript,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,c,java,javascript,typescript,lua,php&theme=dark" />
 
-<br/><br/>
+<br/>
 
-**WEB DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
+<sub>Exploring programming languages and their fundamentals.</sub>
 
 <br/><br/>
 
-**TOOLS & ENVIRONMENT**
+### 🌐 WEB DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,nodejs,express&theme=dark" />
+
+<br/>
+
+<sub>Frontend, backend and web technologies.</sub>
+
+<br/><br/>
+
+### 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
+
+<br/>
+
+<sub>Data management, SQL and database fundamentals.</sub>
+
+<br/><br/>
+
+### 🐧 OPERATING SYSTEMS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,windows,docker&theme=dark" />
+
+<br/>
+
+<sub>Linux environments, terminal commands and development tools.</sub>
+
+<br/><br/>
+
+### 🛠️ TOOLS & DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,vim,postman&theme=dark" />
+
+<br/>
+
+<sub>Version control, IDEs, debugging and API testing.</sub>
+
+<br/><br/>
+
+### 🎮 GAME DEVELOPMENT & CREATIVE TOOLS
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,robloxstudio&theme=dark" />
+
+<br/>
+
+<sub>Game development, 3D and creative experimentation.</sub>
 
 </div>
+
+---
+
+<sub>⚠️ Technologies represent areas of interest, learning and experimentation. They do not necessarily indicate professional proficiency.</sub>
 
 ---
 
