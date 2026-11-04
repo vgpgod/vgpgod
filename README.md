@@ -10,7 +10,19 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-vgpgod-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808)](https://github.com/vgpgod)
+<a href="https://github.com/vgpgod">
+<img src="https://img.shields.io/badge/GITHUB-vgpgod-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
+</a>
+
+<a href="https://www.instagram.com/vkbatman/">
+<img src="https://img.shields.io/badge/INSTAGRAM-vkbatman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080808" />
+</a>
+
+<a href="https://discord.gg/UUeM8AEGTM">
+<img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=080808" />
+</a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vgpgod&style=for-the-badge&color=8B0000&label=VISITORS)
 
@@ -30,6 +42,7 @@
 class Victor:
     def __init__(self):
         self.username = "vgpgod"
+        self.discord = "gms_tt"
         self.role = "Developer in progress"
         self.interests = [
             "Programming",
@@ -94,11 +107,15 @@ Bot desenvolvido em Python, com foco em automações, gerenciamento de servidore
 
 Sistema CRM voltado para lojas de materiais de construção, com gerenciamento de clientes, vendas, entregas, estoque e controle financeiro.
 
-<br clear="right"/>
-
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE-MY_PROJECTS-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808)](https://github.com/vgpgod?tab=repositories)
+<a href="https://www.isekaiblox.com.br/">
+<img src="https://img.shields.io/badge/ACCESS-WEBSITE-FF0033?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080808" />
+</a>
+
+<a href="https://github.com/vgpgod?tab=repositories">
+<img src="https://img.shields.io/badge/MY-PROJECTS-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
+</a>
 
 </div>
 
@@ -122,9 +139,23 @@ Sistema CRM voltado para lojas de materiais de construção, com gerenciamento d
 
 <div align="center">
 
+### 🩸 FIND ME
+
 <a href="https://github.com/vgpgod">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
+<img src="https://img.shields.io/badge/GITHUB-@vgpgod-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
 </a>
+
+<a href="https://www.instagram.com/vkbatman/">
+<img src="https://img.shields.io/badge/INSTAGRAM-@vkbatman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080808" />
+</a>
+
+<a href="https://discord.gg/UUeM8AEGTM">
+<img src="https://img.shields.io/badge/DISCORD-JOIN_MY_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=080808" />
+</a>
+
+<br/>
+
+**Discord:** `@gms_tt`
 
 <br/><br/>
 
