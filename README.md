@@ -1,16 +1,22 @@
-# ⚡ VICTOR | DEVELOPER
+# 🩸 VICTOR | DEVELOPER
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED%3A+VICTOR;Welcome+to+my+GitHub;Building+ideas+into+reality;Always+learning%2C+always+evolving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&weight=600&size=30&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED%3A+VICTOR;Welcome+to+my+domain...;Welcome+to+the+world+of+Hellsing;Creating+something+ beyond+the+ordinary." alt="Typing SVG" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001000,50:003b18,100:00ff41&height=140&section=header&text=VGPGOD&fontSize=45&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descAlignY=70&descSize=13" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:400000,70:8B0000,100:050505&height=180&section=header&text=VGPGOD&fontSize=55&fontColor=E8E0E0&fontAlignY=40&animation=fadeIn&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descAlignY=65&descSize=14" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vgpgod-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=001000)](https://github.com/vgpgod)
+[![GitHub](https://img.shields.io/badge/GITHUB-vgpgod-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808)](https://github.com/vgpgod)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vgpgod&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vgpgod&style=for-the-badge&color=8B0000&label=VISITORS)
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0033?style=flat-square&labelColor=080808" />
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-FF0033?style=flat-square&labelColor=080808" />
+<img src="https://img.shields.io/badge/STYLE-GOTHIC-FF0033?style=flat-square&labelColor=080808" />
 
 </div>
 
@@ -30,15 +36,17 @@ class Victor:
             "Automation",
             "Creative Projects"
         ]
-        self.mindset = "Never stop learning"
+        self.mindset = "Never stop evolving"
 
     def say_hello(self):
-        return "Turning ideas into code."
+        return "Welcome to my domain."
 ```
 
-Sou apaixonado por tecnologia e gosto de explorar as possibilidades da programação. Estou sempre aprendendo, experimentando novas ferramentas e desenvolvendo projetos próprios.
+Sou Victor, um entusiasta de tecnologia e programação. Gosto de explorar novas possibilidades, desenvolver projetos próprios e transformar ideias em soluções reais.
 
-Meu objetivo é transformar ideias em soluções reais, aprimorando minhas habilidades a cada linha de código.
+Estou sempre buscando conhecimento, experimentando ferramentas e aprimorando minhas habilidades. Para mim, cada projeto é uma oportunidade de evoluir.
+
+> *"The night is darkest just before the dawn."*
 
 ---
 
@@ -46,15 +54,15 @@ Meu objetivo é transformar ideias em soluções reais, aprimorando minhas habil
 
 <div align="center">
 
-### Languages
+### ⚔️ Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,lua&theme=dark" />
 
-### Web Development
+### 🩸 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
 
-### Tools & Environment
+### 🦇 Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark" />
 
@@ -66,33 +74,43 @@ Meu objetivo é transformar ideias em soluções reais, aprimorando minhas habil
 
 <div align="center">
 
-<a href="https://github.com/vgpgod">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE_MY_GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=001000" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:400000&height=3&section=header" />
 
 </div>
 
-### ⚙️ Gods — Discord Bot
+### ⚙️ GODS — Discord Bot
+
+<img align="right" width="80" src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=white" />
 
 Bot desenvolvido em Python, com foco em automações, gerenciamento de servidores e funcionalidades personalizadas para comunidades Discord.
 
-### 💻 Vértice CRM
+<br clear="right"/>
 
-Projeto de CRM voltado para lojas de materiais de construção, com foco em gerenciamento de clientes, vendas, entregas, estoque e controle financeiro.
+### 🩸 VÉRTICE CRM
 
----
+<img align="right" width="80" src="https://img.shields.io/badge/CRM-8B0000?style=for-the-badge&logo=react&logoColor=white" />
 
-## `> GITHUB_ANALYTICS`
+Sistema CRM voltado para lojas de materiais de construção, com gerenciamento de clientes, vendas, entregas, estoque e controle financeiro.
+
+<br clear="right"/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vgpgod&show_icons=true&hide_border=true&bg_color=001000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" />
+[![Explore](https://img.shields.io/badge/EXPLORE-MY_PROJECTS-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808)](https://github.com/vgpgod?tab=repositories)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgpgod&layout=compact&hide_border=true&bg_color=001000&title_color=00FF41&text_color=FFFFFF" />
+</div>
 
-<br/><br/>
+---
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=vgpgod&hide_border=true&background=001000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=75B975" />
+## `> CURRENT_MINDSET`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&width=650&lines=Learning+is+an+endless+process.;Every+line+of+code+has+a+purpose.;Creating.+Improving.+Evolving.;There+is+always+more+to+discover." alt="Current mindset" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:400000,100:080808&height=2&section=header" />
 
 </div>
 
@@ -103,19 +121,19 @@ Projeto de CRM voltado para lojas de materiais de construção, com foco em gere
 <div align="center">
 
 <a href="https://github.com/vgpgod">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=001000" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=500&lines=while+(alive)+%7B+keep_learning();+%7D;Build.+Break.+Learn.+Repeat.;Thanks+for+visiting+my+profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF0033&center=true&vCenter=true&width=600&lines=while+(alive)+%7B+keep_building();+%7D;The+night+is+young...;Thanks+for+visiting+my+domain." alt="Footer animation" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b18,100:001000&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:400000,100:050505&height=130&section=footer" />
 
-**`"The best way to predict the future is to create it."`**
+**`"Keep learning. Keep building. Keep evolving."`**
+
+<sub>🩸 H E L L S I N G  |  V G P G O D</sub>
 
 </div>
