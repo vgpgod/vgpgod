@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&weight=600&size=30&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED%3A+VICTOR;Welcome+to+my+domain...;Welcome+to+the+world+of+Hellsing;Creating+something+ beyond+the+ordinary." alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=700&height=80&lines=ACCESS+GRANTED%3A+VICTOR;Welcome+to+my+domain...;Welcome+to+the+world+of+Hellsing;Creating+something+beyond+the+ordinary." alt="ACCESS GRANTED: VICTOR" />
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:400000,70:8B0000,100:050505&height=180&section=header&text=VGPGOD&fontSize=55&fontColor=E8E0E0&fontAlignY=40&animation=fadeIn&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descAlignY=65&descSize=14" />
 
@@ -106,7 +108,7 @@ Sistema CRM voltado para lojas de materiais de construção, com gerenciamento d
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&width=650&lines=Learning+is+an+endless+process.;Every+line+of+code+has+a+purpose.;Creating.+Improving.+Evolving.;There+is+always+more+to+discover." alt="Current mindset" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&width=650&height=60&lines=Learning+is+an+endless+process.;Every+line+of+code+has+a+purpose.;Creating.+Improving.+Evolving.;There+is+always+more+to+discover." alt="Current mindset" />
 
 <br/>
 
@@ -126,7 +128,7 @@ Sistema CRM voltado para lojas de materiais de construção, com gerenciamento d
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF0033&center=true&vCenter=true&width=600&lines=while+(alive)+%7B+keep_building();+%7D;The+night+is+young...;Thanks+for+visiting+my+domain." alt="Footer animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF0033&center=true&vCenter=true&width=600&height=60&lines=while+(alive)+%7B+keep_building();+%7D;The+night+is+young...;Thanks+for+visiting+my+domain." alt="Footer animation" />
 
 <br/>
 
@@ -134,6 +136,6 @@ Sistema CRM voltado para lojas de materiais de construção, com gerenciamento d
 
 **`"Keep learning. Keep building. Keep evolving."`**
 
-<sub>🩸 H E L L S I N G  |  V G P G O D</sub>
+<sub>🩸 H E L L S I N G | V G P G O D</sub>
 
 </div>
