@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GitHub-vgpgod-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
   <a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/Instagram-vkbatman-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
-  <a href="https://discord.gg/UUeM8AEGTM"><img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor Discord" /></a>
+  <a href="https://discord.com/invite/ZeE9ghTcxN"><img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=vgpgod&label=VISITAS+AO+PERFIL&color=8B0000&style=flat-square" alt="Visitas ao perfil" />
@@ -89,6 +89,7 @@ Meu projeto principal: um **bot para gerenciamento de comunidades no Discord**, 
 **Stack:** `Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `PostgreSQL` · `Discord OAuth2`
 
 <a href="https://isekaiblox.com.br/"><img src="https://img.shields.io/badge/ACESSAR%20O%20SITE-ISEKAI%20BOT-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Acessar o site do Isekai Bot" /></a>
+<a href="https://discord.com/invite/ZeE9ghTcxN"><img src="https://img.shields.io/badge/ENTRAR%20NO%20DISCORD-ISEKAI%20BOT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Entrar no servidor oficial do Isekai Bot" /></a>
 
 <sub>Funcionalidades e disponibilidade podem mudar conforme o desenvolvimento.</sub>
 
@@ -156,10 +157,46 @@ Projeto de plataforma para ajudar pequenos negócios a criar sua própria **loja
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vgpgod&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=DC143C&text_color=E9E9E9&icon_color=DC143C&locale=pt-br" alt="Estatísticas públicas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgpgod&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=DC143C&text_color=E9E9E9&locale=pt-br" alt="Linguagens nos repositórios públicos" />
+**⚔️ EXPLORE MINHA JORNADA NO CÓDIGO**
 
-<sub>Os gráficos são gerados automaticamente a partir de repositórios públicos e podem ficar indisponíveis temporariamente.</sub>
+<sub>Projetos publicados, contribuições e evolução contínua.</sub>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/vgpgod?tab=repositories"><strong>💻 REPOSITÓRIOS</strong></a>
+      <br/>
+      <sub>Explore meus projetos e experimentos</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vgpgod"><strong>📈 CONTRIBUIÇÕES</strong></a>
+      <br/>
+      <sub>Veja meu histórico de atividade</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vgpgod?tab=stars"><strong>⭐ FAVORITOS</strong></a>
+      <br/>
+      <sub>Repositórios e ferramentas que acompanho</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vgpgod?tab=followers"><strong>🦇 COMUNIDADE</strong></a>
+      <br/>
+      <sub>Pessoas que acompanham meu trabalho</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/vgpgod?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-VIEW_REPOSITORIES-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explorar meus repositórios" /></a>
+
+<br/>
+
+<sub>Os links acima levam diretamente ao GitHub e não dependem de serviços externos de geração de gráficos.</sub>
 
 </div>
 
@@ -175,11 +212,11 @@ Projeto de plataforma para ajudar pequenos negócios a criar sua própria **loja
 
 <a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GITHUB-@VGPGOD-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
 <a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/INSTAGRAM-@VKBATMAN-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
-<a href="https://discord.gg/UUeM8AEGTM"><img src="https://img.shields.io/badge/DISCORD-ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord" /></a>
+<a href="https://discord.com/invite/ZeE9ghTcxN"><img src="https://img.shields.io/badge/DISCORD-ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
 
 <br/><br/>
 
-**Discord:** `@gms_tt`
+**Discord:** `@goddevs`
 
 <br/>
 
