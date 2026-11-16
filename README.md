@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GitHub-vgpgod-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
   <a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/Instagram-vkbatman-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
-  <a href="https://discord.com/invite/ZeE9ghTcxN"><img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
+  <a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=vgpgod&label=VISITAS+AO+PERFIL&color=8B0000&style=flat-square" alt="Visitas ao perfil" />
@@ -89,7 +89,7 @@ Meu projeto principal: um **bot para gerenciamento de comunidades no Discord**, 
 **Stack:** `Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `PostgreSQL` · `Discord OAuth2`
 
 <a href="https://isekaiblox.com.br/"><img src="https://img.shields.io/badge/ACESSAR%20O%20SITE-ISEKAI%20BOT-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Acessar o site do Isekai Bot" /></a>
-<a href="https://discord.com/invite/ZeE9ghTcxN"><img src="https://img.shields.io/badge/ENTRAR%20NO%20DISCORD-ISEKAI%20BOT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Entrar no servidor oficial do Isekai Bot" /></a>
+<a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/ENTRAR%20NO%20DISCORD-ISEKAI%20BOT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Entrar no servidor oficial do Isekai Bot" /></a>
 
 <sub>Funcionalidades e disponibilidade podem mudar conforme o desenvolvimento.</sub>
 
@@ -212,7 +212,7 @@ Projeto de plataforma para ajudar pequenos negócios a criar sua própria **loja
 
 <a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GITHUB-@VGPGOD-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
 <a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/INSTAGRAM-@VKBATMAN-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
-<a href="https://discord.com/invite/ZeE9ghTcxN"><img src="https://img.shields.io/badge/DISCORD-ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
+<a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/DISCORD-ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
 
 <br/><br/>
 
