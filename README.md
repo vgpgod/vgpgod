@@ -163,6 +163,7 @@ Conceito de plataforma para criação e gerenciamento de lojas online, com foco 
 
 <a href="mailto:victorrochapires48@gmail.com"><img src="https://img.shields.io/badge/EMAIL-VICTORROCHAPIRES48%40GMAIL.COM-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="E-mail: victorrochapires48@gmail.com" /></a>
 <a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GITHUB-@VGPGOD-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub vgpgod" /></a>
+<a href="https://www.linkedin.com/in/victor-gabriel-38b101354/"><img src="https://img.shields.io/badge/LINKEDIN-VICTOR%20GABRIEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Victor Gabriel" /></a>
 
 **Discord:** `@goddevs`
 
