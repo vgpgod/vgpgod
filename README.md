@@ -1,229 +1,173 @@
-<!-- ========================================================= -->
-<!-- VGPGOD / GitHub Profile — Hellsing-inspired visual identity -->
-<!-- ========================================================= -->
-
+<!-- GitHub Profile | Victor Gabriel | Dark crimson identity -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:230006,60:780016,100:050505&height=210&section=header&text=VGPGOD&fontSize=75&fontColor=F3EEEE&fontAlignY=38&animation=fadeIn&desc=VICTOR%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=61&descSize=17&descColor=FF4C61" alt="VGPGOD — Victor, Software Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:230006,60:780016,100:050505&height=200&section=header&text=VGPGOD&fontSize=70&fontColor=F3EEEE&fontAlignY=37&animation=fadeIn&desc=VICTOR%20GABRIEL%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=16&descColor=FF4C61" alt="VGPGOD — Victor Gabriel, Full Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1100&color=DC143C&center=true&vCenter=true&width=780&height=55&lines=%3E+ACCESS+GRANTED%3A+VICTOR;%3E+Building+systems%2C+bots+and+digital+experiences.;%3E+Learn.+Create.+Improve.+Repeat.;%3E+Welcome+to+my+domain." alt="Animação de apresentação" />
+# 🩸 Victor Gabriel
 
-<p>
-  <a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GitHub-vgpgod-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/Instagram-vkbatman-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
-  <a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
-</p>
+**Desenvolvedor Full Stack | Python · Node.js · React · Vite · TypeScript · PostgreSQL**
+
+Estudando programação desde os 16 anos · Desenvolvimento web, APIs e automações
+
+<a href="mailto:victorrochapires48@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTATO%20PROFISSIONAL-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Enviar e-mail profissional" /></a>
+<a href="https://github.com/vgpgod?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-PROJETOS-242424?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explorar projetos" /></a>
+<a href="https://isekaiblox.com.br/"><img src="https://img.shields.io/badge/PROJETO-ISEKAI%20BOT-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Acessar Isekai Bot" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=vgpgod&label=VISITAS+AO+PERFIL&color=8B0000&style=flat-square" alt="Visitas ao perfil" />
 
-<sub>🦇 DARK AESTHETIC · REAL PROJECTS · CONSTANT EVOLUTION</sub>
+<sub>🦇 BUILD · TEST · IMPROVE · REPEAT</sub>
 
 </div>
 
 ---
 
-## 🩸 `01 / ABOUT ME`
+## 🦇 01 / SOBRE MIM
 
-```python
-class Victor:
-    username = "vgpgod"
-    role = "Developer & Tech Enthusiast"
-    focus = ["Web apps", "Discord bots", "Automation", "Software architecture"]
-    interests = ["Game development", "UI/UX", "Cybersecurity", "Open source"]
+Sou **Victor Gabriel**, desenvolvedor com foco em **aplicações web, sistemas de gestão, APIs e automações**. Comecei a estudar programação aos **16 anos** e venho desenvolvendo projetos próprios para transformar ideias em produtos funcionais.
 
-    def mindset(self):
-        return "Learn. Build. Test. Improve."
-```
+Tenho interesse em trabalhar de ponta a ponta: da interface e experiência do usuário à lógica de negócio, integrações e persistência de dados.
 
-Sou **Victor**, desenvolvedor e técnico em informática, apaixonado por transformar ideias em ferramentas reais. Gosto de trabalhar tanto na **interface que as pessoas usam** quanto na **lógica e na infraestrutura que fazem tudo funcionar**.
+- 🎯 **Foco profissional:** desenvolvimento Full Stack, backend e sistemas web.
+- 🧩 **Prática:** dashboards administrativos, bots, automações e plataformas digitais.
+- 🛠️ **Abordagem:** aprender construindo, investigar problemas e melhorar continuamente.
+- 🌍 **Objetivo:** oportunidades de desenvolvimento de software, preferencialmente remotas.
 
-Meus principais interesses estão em **desenvolvimento web**, **bots para Discord**, **automação**, **aplicações em tempo real**, **sistemas de gestão** e **jogos**. Também gosto de experimentar novas tecnologias, resolver problemas técnicos e aprimorar a experiência de quem utiliza meus projetos.
-
-> **Meu objetivo:** construir produtos úteis, bem organizados e cada vez mais completos — um commit de cada vez.
+> **O que me motiva:** criar soluções úteis, bem organizadas e que resolvam problemas reais.
 
 ---
 
-## ⚔️ `02 / TECH STACK`
+## ⚔️ 02 / TECNOLOGIAS PRINCIPAIS
 
 <div align="center">
 
-**TECNOLOGIAS QUE UTILIZO EM PROJETOS**
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,vite,ts,postgres&theme=dark" alt="Python, Node.js, React, Vite, TypeScript e PostgreSQL" />
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,nodejs,fastapi,html,css&theme=dark" alt="Python, JavaScript, TypeScript, React, Vite, Node.js, FastAPI, HTML e CSS" />
+**Python** · **Node.js** · **React** · **Vite** · **TypeScript** · **PostgreSQL**
 
-<br/><br/>
-
-**BANCOS DE DADOS & FERRAMENTAS**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux,docker,postman&theme=dark" alt="PostgreSQL, MySQL, SQLite, Git, GitHub, VS Code, Linux, Docker e Postman" />
-
-<br/><br/>
-
-**OUTRAS LINGUAGENS & ÁREAS QUE EXPLORO**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,kotlin,lua,php,unity,unreal,blender&theme=dark" alt="Java, C++, C#, Kotlin, Lua, PHP, Unity, Unreal e Blender" />
-
-<br/>
-
-<sub>As tecnologias acima incluem diferentes níveis de experiência, estudo e experimentação.</sub>
+<sub>Meu foco atual de desenvolvimento. Ferramentas e bibliotecas complementares aparecem na documentação de cada projeto.</sub>
 
 </div>
 
 ---
 
-## 🦇 `03 / FEATURED PROJECTS`
+## 🩸 03 / PROJETOS EM DESTAQUE
 
-### 🦊 ISEKAI BOT
+### 🦊 ISEKAI BOT — Automação e gerenciamento de comunidades
 
-<img src="https://img.shields.io/badge/DISCORD-BOT-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord bot" />
-<img src="https://img.shields.io/badge/PAINEL-WEB-DC143C?style=flat-square" alt="Painel web" />
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-8B0000?style=flat-square" alt="Em desenvolvimento" />
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-8B0000?style=flat-square)
+![Tipo](https://img.shields.io/badge/TIPO-BOT%20%2B%20DASHBOARD-DC143C?style=flat-square)
 
-Meu projeto principal: um **bot para gerenciamento de comunidades no Discord**, acompanhado de um **dashboard web** para configurar funcionalidades de maneira centralizada e organizada.
+Projeto de gerenciamento de comunidades no Discord com **bot, API, banco de dados e painel web**.
 
-- **Moderação:** comandos administrativos, advertências, permissões e ferramentas de gerenciamento.
-- **Dashboard:** interface de configuração com módulos e opções organizadas por servidor.
-- **Tickets (em desenvolvimento):** múltiplos painéis de abertura, categorias de destino personalizáveis, equipes de atendimento, limites de tickets e atribuição de atendentes.
-- **Arquitetura:** integração entre bot, API, banco de dados e interface web.
+**Problema:** administradores precisam gerenciar moderação, permissões e configurações de servidores sem depender de processos manuais.
 
-**Stack:** `Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `PostgreSQL` · `Discord OAuth2`
+**Solução em desenvolvimento:** centralizar configurações e fluxos administrativos em um dashboard conectado ao bot.
 
-<a href="https://isekaiblox.com.br/"><img src="https://img.shields.io/badge/ACESSAR%20O%20SITE-ISEKAI%20BOT-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Acessar o site do Isekai Bot" /></a>
-<a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/ENTRAR%20NO%20DISCORD-ISEKAI%20BOT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Entrar no servidor oficial do Isekai Bot" /></a>
+**Aspectos técnicos:** integração com a API do Discord, autenticação OAuth2, comunicação frontend/backend, persistência de configurações e organização modular.
 
-<sub>Funcionalidades e disponibilidade podem mudar conforme o desenvolvimento.</sub>
+**Tecnologias do projeto:** Python, React, PostgreSQL e ferramentas complementares.
 
-<br/>
+🔗 **[Acessar site do projeto](https://isekaiblox.com.br/)** · **[Comunidade no Discord](https://discord.gg/SdkU86bQwq)**
 
-### 🌐 ZOOMY
+<sub>O código-fonte principal é privado. A disponibilidade dos módulos pode mudar durante o desenvolvimento.</sub>
 
-<img src="https://img.shields.io/badge/WEB-APP-DC143C?style=flat-square" alt="Aplicação web" />
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-8B0000?style=flat-square" alt="Em desenvolvimento" />
+### 🌐 ZOOMY — Plataforma de comunicação
 
-Plataforma de comunicação inspirada em comunidades online, criada para explorar **interfaces modernas**, **mensagens em tempo real**, **servidores**, **grupos** e experiências de **voz, vídeo e compartilhamento de tela**.
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-8B0000?style=flat-square)
 
-**Foco:** `React` · `Interfaces interativas` · `Comunicação em tempo real` · `Experiência do usuário`
+Aplicação web voltada a **mensagens, grupos, comunidades e comunicação em tempo real**, com exploração de recursos de voz, vídeo e compartilhamento de tela.
 
-<br/>
+**Desafios do projeto:** interfaces responsivas, gerenciamento de estado, comunicação em tempo real e experiência do usuário em diferentes dispositivos.
 
-### 🏗️ VÉRTICE CRM
+**Foco técnico:** React, arquitetura frontend e integração de recursos de comunicação.
 
-<img src="https://img.shields.io/badge/CRM-GEST%C3%83O%20COMERCIAL-DC143C?style=flat-square" alt="CRM e gestão comercial" />
-<img src="https://img.shields.io/badge/PROJETO-SEM%20LINK%20P%C3%9ABLICO-333333?style=flat-square" alt="Sem link público" />
+<sub>Projeto em evolução; funcionalidades planejadas não devem ser interpretadas como já concluídas.</sub>
 
-Sistema de gestão voltado para **lojas de materiais de construção**, pensado para centralizar processos importantes do dia a dia:
+### 🏗️ VÉRTICE CRM — Sistema de gestão comercial
 
-- Cadastro e acompanhamento de clientes;
-- Vendas, pedidos e entregas;
-- Produtos e controle de estoque;
-- Informações financeiras e organização operacional.
+![Tipo](https://img.shields.io/badge/TIPO-SISTEMA%20DE%20GEST%C3%83O-DC143C?style=flat-square)
+![Acesso](https://img.shields.io/badge/C%C3%93DIGO-PRIVADO-333333?style=flat-square)
 
-**Stack utilizada:** `React` · `Vite` · `Python`
+Sistema voltado à gestão operacional de lojas de materiais de construção, com foco em **clientes, pedidos, produtos, estoque e processos comerciais**.
 
-<sub>Projeto apresentado aqui como parte do meu portfólio; atualmente sem demonstração pública.</sub>
+**Problema:** informações comerciais dispersas dificultam o acompanhamento das operações.
 
-<br/>
+**Abordagem:** organizar fluxos de negócio em uma aplicação com interface administrativa e backend dedicado.
 
-### 🛍️ VITRIA
+**Tecnologias utilizadas:** React, Vite e Python.
 
-<img src="https://img.shields.io/badge/WEB-ECOMMERCE-DC143C?style=flat-square" alt="Plataforma web" />
-<img src="https://img.shields.io/badge/STATUS-PROT%C3%93TIPO%20%2F%20EVOLU%C3%87%C3%83O-8B0000?style=flat-square" alt="Projeto em evolução" />
+<sub>Sem demonstração pública no momento.</sub>
 
-Projeto de plataforma para ajudar pequenos negócios a criar sua própria **loja virtual**, com foco em **identidade visual**, **catálogos**, **páginas de produto**, **modelos de loja** e uma experiência de edição intuitiva.
+### 🛍️ VITRIA — Plataforma de lojas virtuais
 
-**Foco:** `Frontend` · `Design de interfaces` · `Experiência de compra` · `Ferramentas para negócios`
+![Status](https://img.shields.io/badge/STATUS-PROT%C3%93TIPO-8B0000?style=flat-square)
 
-<sub>Projeto em evolução; recursos de edição e publicação não são apresentados como concluídos.</sub>
+Conceito de plataforma para criação e gerenciamento de lojas online, com foco em **catálogos, identidade visual, páginas de produto e experiência de compra**.
 
-<br/>
+**Foco de aprendizado:** design de interfaces, estrutura de aplicações web e ferramentas digitais para pequenos negócios.
 
-<div align="center">
-  <a href="https://github.com/vgpgod?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-MEUS%20REPOSIT%C3%93RIOS-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver repositórios no GitHub" /></a>
-</div>
+<sub>Projeto em prototipação; não representa um serviço finalizado.</sub>
 
 ---
 
-## 🛠️ `04 / HOW I BUILD`
+## 🛠️ 04 / COMO DESENVOLVO
 
-- **Ideia → protótipo:** planejo a experiência e testo caminhos de implementação.
-- **Frontend + backend:** gosto de entender o produto de ponta a ponta.
-- **Automação:** busco simplificar tarefas repetitivas e fluxos de administração.
-- **Evolução contínua:** reviso interfaces, corrijo problemas e expando funcionalidades por etapas.
-- **Aprendizado prático:** prefiro estudar construindo projetos reais.
+| Etapa | Minha abordagem |
+| :--- | :--- |
+| **Planejamento** | Entender o problema, definir funcionalidades e organizar prioridades. |
+| **Interface** | Criar experiências responsivas, claras e consistentes. |
+| **Backend** | Estruturar regras de negócio, APIs e integrações. |
+| **Dados** | Modelar e consultar informações em bancos relacionais. |
+| **Validação** | Reproduzir erros, testar fluxos e revisar comportamentos. |
+| **Evolução** | Melhorar funcionalidades, manutenção e documentação por etapas. |
 
 ---
 
-## 📊 `05 / GITHUB ACTIVITY`
+## 📊 05 / ATIVIDADE E EVOLUÇÃO NO GITHUB
 
 <div align="center">
 
-**⚔️ EXPLORE MINHA JORNADA NO CÓDIGO**
+**PROJETOS · CONTRIBUIÇÕES · APRENDIZADO CONTÍNUO**
 
-<sub>Projetos publicados, contribuições e evolução contínua.</sub>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/vgpgod?tab=repositories"><strong>💻 REPOSITÓRIOS</strong></a>
-      <br/>
-      <sub>Explore meus projetos e experimentos</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/vgpgod"><strong>📈 CONTRIBUIÇÕES</strong></a>
-      <br/>
-      <sub>Veja meu histórico de atividade</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vgpgod?tab=stars"><strong>⭐ FAVORITOS</strong></a>
-      <br/>
-      <sub>Repositórios e ferramentas que acompanho</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vgpgod?tab=followers"><strong>🦇 COMUNIDADE</strong></a>
-      <br/>
-      <sub>Pessoas que acompanham meu trabalho</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/vgpgod?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-VIEW_REPOSITORIES-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explorar meus repositórios" /></a>
-
-<br/>
-
-<sub>Os links acima levam diretamente ao GitHub e não dependem de serviços externos de geração de gráficos.</sub>
+<a href="https://github.com/vgpgod?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-REPOSIT%C3%93RIOS-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver repositórios" /></a>
+<a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/VER-HIST%C3%93RICO%20DE%20CONTRIBUI%C3%87%C3%95ES-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver contribuições" /></a>
 
 </div>
 
+### 📌 O que você encontra no meu trabalho
+
+- **Aplicações completas:** projetos que conectam interfaces, lógica de negócio e dados.
+- **Desenvolvimento incremental:** melhorias contínuas e correções ao longo da evolução dos sistemas.
+- **Resolução de problemas:** investigação de falhas de integração, interfaces e fluxos de usuário.
+- **Aprendizado aplicado:** experimentação com tecnologias em projetos de uso prático.
+- **Documentação técnica:** contexto, tecnologias e objetivos descritos nos projetos apresentados.
+
+### 🔍 Explore minha atividade
+
+| Área | Acesso |
+| :--- | :--- |
+| Código e projetos | [Repositórios](https://github.com/vgpgod?tab=repositories) |
+| Histórico de contribuições | [Perfil GitHub](https://github.com/vgpgod) |
+| Projetos acompanhados | [Favoritos](https://github.com/vgpgod?tab=stars) |
+| Comunidade e conexões | [Seguidores](https://github.com/vgpgod?tab=followers) |
+
+<sub>Parte dos projetos é privada; o histórico público não representa necessariamente toda a atividade de desenvolvimento.</sub>
+
 ---
 
-## 🩸 `06 / ESTABLISH CONTACT`
+## 🩸 06 / CONTATO PROFISSIONAL
 
 <div align="center">
 
-**Quer conversar sobre programação, trocar ideias ou acompanhar meus projetos?**
+**Aberto a conversar sobre projetos, colaboração e oportunidades em desenvolvimento de software.**
 
-<br/>
-
-<a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GITHUB-@VGPGOD-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
-<a href="https://www.instagram.com/vkbatman/"><img src="https://img.shields.io/badge/INSTAGRAM-@VKBATMAN-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
-<a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/DISCORD-ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Servidor do Isekai Bot no Discord" /></a>
-
-<br/><br/>
+<a href="mailto:victorrochapires48@gmail.com"><img src="https://img.shields.io/badge/EMAIL-VICTORROCHAPIRES48%40GMAIL.COM-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="E-mail: victorrochapires48@gmail.com" /></a>
+<a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GITHUB-@VGPGOD-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub vgpgod" /></a>
 
 **Discord:** `@goddevs`
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:690013,55:270008,100:050505&height=125&section=footer" alt="Rodapé em vermelho e preto" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1300&color=DC143C&center=true&vCenter=true&width=720&height=50&lines=The+night+belongs+to+those+who+create.;while+(alive)+%7B+keep_building();+%7D;Thanks+for+visiting+my+domain." alt="Mensagem de despedida" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:690013,55:270008,100:050505&height=125&section=footer" alt="Rodapé vermelho e preto" />
-
-<sub>⛧ V G P G O D · C O D E  /  C R E A T E  /  E V O L V E ⛧</sub>
+<sub>⛧ VGPGOD · CODE / CREATE / EVOLVE ⛧</sub>
 
 </div>
