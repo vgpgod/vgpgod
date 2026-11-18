@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0E,50:240B13,100:0B0B0E&height=155&section=header&text=VICTOR%20GABRIEL&fontSize=39&fontColor=F5F5F5&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%2F%20VGPGOD&descAlignY=71&descSize=15&descColor=E56A79" alt="Victor Gabriel — Full Stack Developer" />
+
 # Victor Gabriel
 
 **Desenvolvedor Full Stack**
@@ -34,6 +36,8 @@ Busco oportunidades para trabalhar com desenvolvimento de software, preferencial
 
 ### Isekai Bot
 
+<img src="https://img.shields.io/badge/Discord-Bot%20%2B%20Dashboard-DC143C?style=flat-square&logo=discord&logoColor=white" alt="Bot e dashboard para Discord" /> <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-333333?style=flat-square" alt="Em desenvolvimento" />
+
 **Bot para Discord com painel de gerenciamento web**
 
 O Isekai Bot é um projeto de gerenciamento de comunidades no Discord. Ele reúne funcionalidades de administração e configuração em um painel web conectado ao bot.
@@ -56,6 +60,14 @@ Uma parte importante do desenvolvimento tem sido lidar com integrações, permis
 
 ## Atividade no GitHub
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vgpgod&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=E56A79&text_color=E8E8EB&icon_color=DC143C&locale=pt-br" alt="Estatísticas públicas do GitHub de vgpgod" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgpgod&layout=compact&hide_border=true&bg_color=0B0B0E&title_color=E56A79&text_color=E8E8EB&locale=pt-br" alt="Linguagens dos repositórios públicos" />
+
+</div>
+
 Uso o GitHub para acompanhar versões, registrar alterações e organizar a evolução dos projetos. Parte do meu trabalho está em repositórios privados.
 
 [Ver repositórios](https://github.com/vgpgod?tab=repositories) · [Ver contribuições](https://github.com/vgpgod) · [Ver atividade](https://github.com/vgpgod?tab=overview)
@@ -68,3 +80,9 @@ Tenho interesse em oportunidades de desenvolvimento Full Stack, backend e aplica
 - **LinkedIn:** [Victor Gabriel](https://www.linkedin.com/in/victor-gabriel-38b101354/)
 - **GitHub:** [@vgpgod](https://github.com/vgpgod)
 
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0E,55:430F20,100:0B0B0E&height=85&section=footer" alt="Rodapé escuro com detalhe vermelho" />
+
+</div>
