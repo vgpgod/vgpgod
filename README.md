@@ -50,7 +50,7 @@ Tenho interesse em trabalhar de ponta a ponta: da interface e experiência do us
 
 ---
 
-## 🩸 03 / PROJETOS EM DESTAQUE
+## 🩸 03 / PROJETO EM DESTAQUE
 
 ### 🦊 ISEKAI BOT — Automação e gerenciamento de comunidades
 
@@ -71,42 +71,6 @@ Projeto de gerenciamento de comunidades no Discord com **bot, API, banco de dado
 
 <sub>O código-fonte principal é privado. A disponibilidade dos módulos pode mudar durante o desenvolvimento.</sub>
 
-### 🌐 ZOOMY — Plataforma de comunicação
-
-![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-8B0000?style=flat-square)
-
-Aplicação web voltada a **mensagens, grupos, comunidades e comunicação em tempo real**, com exploração de recursos de voz, vídeo e compartilhamento de tela.
-
-**Desafios do projeto:** interfaces responsivas, gerenciamento de estado, comunicação em tempo real e experiência do usuário em diferentes dispositivos.
-
-**Foco técnico:** React, arquitetura frontend e integração de recursos de comunicação.
-
-<sub>Projeto em evolução; funcionalidades planejadas não devem ser interpretadas como já concluídas.</sub>
-
-### 🏗️ VÉRTICE CRM — Sistema de gestão comercial
-
-![Tipo](https://img.shields.io/badge/TIPO-SISTEMA%20DE%20GEST%C3%83O-DC143C?style=flat-square)
-![Acesso](https://img.shields.io/badge/C%C3%93DIGO-PRIVADO-333333?style=flat-square)
-
-Sistema voltado à gestão operacional de lojas de materiais de construção, com foco em **clientes, pedidos, produtos, estoque e processos comerciais**.
-
-**Problema:** informações comerciais dispersas dificultam o acompanhamento das operações.
-
-**Abordagem:** organizar fluxos de negócio em uma aplicação com interface administrativa e backend dedicado.
-
-**Tecnologias utilizadas:** React, Vite e Python.
-
-<sub>Sem demonstração pública no momento.</sub>
-
-### 🛍️ VITRIA — Plataforma de lojas virtuais
-
-![Status](https://img.shields.io/badge/STATUS-PROT%C3%93TIPO-8B0000?style=flat-square)
-
-Conceito de plataforma para criação e gerenciamento de lojas online, com foco em **catálogos, identidade visual, páginas de produto e experiência de compra**.
-
-**Foco de aprendizado:** design de interfaces, estrutura de aplicações web e ferramentas digitais para pequenos negócios.
-
-<sub>Projeto em prototipação; não representa um serviço finalizado.</sub>
 
 ---
 
@@ -136,7 +100,7 @@ Conceito de plataforma para criação e gerenciamento de lojas online, com foco 
 
 ### 📌 O que você encontra no meu trabalho
 
-- **Aplicações completas:** projetos que conectam interfaces, lógica de negócio e dados.
+- **Aplicações completas:** integração entre interfaces, lógica de negócio e dados no Isekai Bot.
 - **Desenvolvimento incremental:** melhorias contínuas e correções ao longo da evolução dos sistemas.
 - **Resolução de problemas:** investigação de falhas de integração, interfaces e fluxos de usuário.
 - **Aprendizado aplicado:** experimentação com tecnologias em projetos de uso prático.
