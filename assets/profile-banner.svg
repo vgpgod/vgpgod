@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Victor Gabriel — Desenvolvedor Full Stack">
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#101116"/>
+      <stop offset=".56" stop-color="#19121B"/>
+      <stop offset="1" stop-color="#32121C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#DD4967"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#C83556" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#C83556" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#E9A0B1" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="240" rx="18" fill="url(#background)"/>
+  <rect x="0" y="0" width="1000" height="240" rx="18" fill="url(#grid)"/>
+  <circle cx="880" cy="105" r="232" fill="url(#halo)"/>
+  <path d="M670 0L1000 0V240H800Z" fill="#F86687" fill-opacity=".045"/>
+  <circle cx="863" cy="120" r="89" fill="none" stroke="#FB7185" stroke-opacity=".33" stroke-width="1.5"/>
+  <circle cx="863" cy="120" r="65" fill="none" stroke="#FB7185" stroke-opacity=".13" stroke-width="1.5"/>
+  <path d="M839 93L813 120L839 147M887 93L913 120L887 147M875 83L851 157" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="58" y="52" width="5" height="130" rx="2.5" fill="url(#accent)"/>
+  <text x="84" y="100" fill="#FCFAFD" font-size="47" font-weight="750" font-family="Segoe UI,Arial,sans-serif" letter-spacing="-1.5">Victor Gabriel</text>
+  <text x="85" y="136" fill="#F1A4B5" font-size="17" font-weight="650" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2.2">DESENVOLVEDOR FULL STACK</text>
+  <text x="85" y="177" fill="#C8BBC5" font-size="16" font-family="Segoe UI,Arial,sans-serif">Web, APIs e automações para produtos reais.</text>
+  <rect x="84" y="197" width="205" height="2" fill="url(#accent)" opacity=".8"/>
+</svg>
