@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Victor Gabriel — desenvolvedor Full Stack especializado em web, APIs e automações" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Victor Gabriel — Desenvolvedor Full Stack" />
 
 <br />
 
 **Python · React · TypeScript · Node.js · PostgreSQL**
 
-Construo aplicações web, APIs e automações com foco em organização, integração e uso real.
+Desenvolvimento web, APIs e automações — da ideia à aplicação funcionando.
 
-[**Projetos**](#projeto-em-destaque) &nbsp;·&nbsp; [**Atividade**](#atividade-no-github) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/victor-gabriel-38b101354/) &nbsp;·&nbsp; [**E-mail**](mailto:victorrochapires48@gmail.com)
+[**Projetos**](#projeto-em-destaque) &nbsp;·&nbsp; [**Tecnologias**](#tecnologias-e-ferramentas) &nbsp;·&nbsp; [**Atividade**](#atividade-no-github) &nbsp;·&nbsp; [**Contato**](#contato)
 
 </div>
 
@@ -16,45 +16,72 @@ Construo aplicações web, APIs e automações com foco em organização, integr
 
 ## Sobre mim
 
-Sou desenvolvedor **Full Stack** e trabalho principalmente com **Python, React e PostgreSQL**. Comecei a estudar programação aos 16 anos e, desde então, venho aprofundando meus conhecimentos em aplicações web, comunicação entre sistemas, APIs e bancos de dados.
+Sou **Victor Gabriel**, desenvolvedor Full Stack com foco em criar produtos digitais que sejam fáceis de usar e bem estruturados por dentro.
 
-Gosto de compreender o problema antes de escrever o código, estruturar soluções que possam evoluir e cuidar da experiência de quem vai utilizá-las.
+Comecei a estudar programação aos 16 anos. O que mais me interessa nessa área é conectar as diferentes partes de uma aplicação: a interface que as pessoas utilizam, a API que processa as operações e o banco de dados que mantém tudo consistente.
 
-Tenho interesse em oportunidades de desenvolvimento **Full Stack, backend e web**, inclusive em formato remoto.
+Atualmente, trabalho principalmente com **Python, React, TypeScript e PostgreSQL**. Gosto de desenvolver projetos próprios, resolver problemas reais e melhorar continuamente a organização, a segurança e a experiência dos sistemas que construo.
+
+Também tenho interesse em oportunidades de desenvolvimento **Full Stack, backend e aplicações web**, inclusive remotas.
 
 ## Tecnologias e ferramentas
 
-| Área | Tecnologias |
-| :-- | :-- |
-| **Backend e automação** | Python, Node.js, APIs REST |
-| **Frontend** | React, Vite, TypeScript, JavaScript |
-| **Banco de dados** | PostgreSQL |
-| **Integrações** | Discord API, OAuth2 |
-| **Fluxo de desenvolvimento** | Git, GitHub |
+### Backend e automação
+
+<p>
+  <img src="https://img.shields.io/badge/Python-181820?style=for-the-badge&amp;logo=python&amp;logoColor=FFDA62" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-181820?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=78C56A" alt="Node.js" />
+</p>
+
+### Interfaces e frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-181820?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-181820?style=for-the-badge&amp;logo=typescript&amp;logoColor=4F9BFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-181820?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-181820?style=for-the-badge&amp;logo=vite&amp;logoColor=B58CFF" alt="Vite" />
+</p>
+
+### Banco de dados e integrações
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-181820?style=for-the-badge&amp;logo=postgresql&amp;logoColor=89BFFF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Discord%20API-181820?style=for-the-badge&amp;logo=discord&amp;logoColor=A3A9FF" alt="Discord API" />
+</p>
+
+### Versionamento
+
+<p>
+  <img src="https://img.shields.io/badge/Git-181820?style=for-the-badge&amp;logo=git&amp;logoColor=F06B55" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181820?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+</p>
 
 ## Projeto em destaque
 
 ### Isekai Bot
 
-**Automação para comunidades Discord com gerenciamento pelo navegador.**
+**Um bot para Discord conectado a uma plataforma de gerenciamento web.**
 
-O Isekai Bot integra um bot em Python, uma API e um painel web para administrar e configurar funcionalidades em diferentes servidores do Discord.
+O **Isekai Bot** é um projeto próprio voltado à administração de comunidades. A ideia é reunir ferramentas importantes para o dia a dia de um servidor em uma experiência mais organizada, combinando os recursos do bot com um painel acessível pelo navegador.
 
-O projeto envolve:
+O desenvolvimento envolve três partes que precisam conversar entre si:
 
-- **Bot em Python:** comandos, eventos e automações no Discord.
-- **API e integração:** comunicação entre as configurações do painel, o bot e o banco de dados.
-- **Dashboard em React:** interface de gerenciamento por servidor.
-- **PostgreSQL:** persistência das configurações e dos dados necessários.
-- **OAuth2 do Discord:** autenticação para acesso ao painel.
+- **Bot e automações:** comandos e recursos de moderação, organização e gerenciamento de comunidades Discord.
+- **Painel web:** interface em React para visualizar e configurar funcionalidades de cada servidor.
+- **Backend e dados:** API em Python, PostgreSQL e autenticação com Discord OAuth2, conectando as ações do painel ao funcionamento do bot.
 
-É um projeto em evolução, no qual trabalho com arquitetura, permissões, consistência de dados e experiência do usuário.
+Entre os recursos trabalhados no projeto estão sistemas de **tickets, VIP, moderação, registros, XP e rankings**. Além das funcionalidades, o foco é manter a experiência clara e cuidar de integrações, permissões e consistência das informações.
 
-**Stack:** `Python` · `React` · `Vite` · `PostgreSQL` · `Discord OAuth2`
+**Tecnologias:** `Python` · `React` · `Vite` · `PostgreSQL` · `Discord OAuth2`
 
-[**Conhecer o Isekai Bot**](https://isekaiblox.com.br/) &nbsp;·&nbsp; [**Comunidade no Discord**](https://discord.gg/SdkU86bQwq)
+<div align="center">
 
-> O código principal está em um repositório privado.
+<a href="https://isekaiblox.com.br/"><img src="./assets/buttons/isekai-bot.svg" width="315" alt="Conhecer o site e o painel do Isekai Bot" /></a>
+<a href="https://discord.gg/SdkU86bQwq"><img src="./assets/buttons/discord-community.svg" width="315" alt="Entrar na comunidade do Isekai Bot no Discord" /></a>
+
+</div>
+
+> Projeto em evolução. O repositório principal é privado.
 
 ## Atividade no GitHub
 
@@ -88,20 +115,25 @@ O projeto envolve:
 
 </div>
 
-Os gráficos são gerados por **GitHub Actions** e armazenados neste repositório, sem depender de servidores públicos de estatísticas. A atualização está **agendada a cada seis horas** e também pode ser iniciada manualmente em [**Actions → Atualizar estatísticas do perfil**](https://github.com/vgpgod/vgpgod/actions/workflows/profile-metrics.yml).
-
-*Os dados seguem a visibilidade e as permissões do GitHub. O trabalho em repositórios privados pode não aparecer nas métricas públicas.*
-
 ## Contato
 
-Para conversar sobre projetos, desenvolvimento ou oportunidades profissionais:
+Estou aberto a conversar sobre projetos, colaboração e oportunidades de desenvolvimento. Você pode entrar em contato por e-mail ou LinkedIn, ou me encontrar no Discord.
 
-**[E-mail](mailto:victorrochapires48@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/victor-gabriel-38b101354/)** &nbsp;·&nbsp; **[GitHub](https://github.com/vgpgod)**
+<div align="center">
+
+<a href="mailto:victorrochapires48@gmail.com"><img src="https://img.shields.io/badge/E--mail-181820?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA6A79" alt="Enviar e-mail" /></a>
+<a href="https://www.linkedin.com/in/victor-gabriel-38b101354/"><img src="https://img.shields.io/badge/LinkedIn-181820?style=for-the-badge&amp;logo=linkedin&amp;logoColor=75ABFF" alt="Meu LinkedIn" /></a>
+<a href="https://github.com/vgpgod"><img src="https://img.shields.io/badge/GitHub-181820?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="Meu GitHub" /></a>
+<a href="https://discord.gg/SdkU86bQwq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=FFFFFF" alt="Entrar no servidor Discord do Isekai Bot" /></a>
+
+**Meu usuário no Discord:** `@goddevs` · [Servidor do Isekai Bot](https://discord.gg/SdkU86bQwq)
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>Desenvolvimento com foco em soluções claras, funcionais e sustentáveis.</sub>
+<sub>Desenvolvimento com atenção à experiência, à arquitetura e aos detalhes.</sub>
 
 </div>
