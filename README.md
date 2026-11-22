@@ -1,88 +1,107 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0E,50:240B13,100:0B0B0E&height=155&section=header&text=VICTOR%20GABRIEL&fontSize=39&fontColor=F5F5F5&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%2F%20VGPGOD&descAlignY=71&descSize=15&descColor=E56A79" alt="Victor Gabriel — Full Stack Developer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Victor Gabriel — desenvolvedor Full Stack especializado em web, APIs e automações" />
 
-# Victor Gabriel
+<br />
 
-**Desenvolvedor Full Stack**
+**Python · React · TypeScript · Node.js · PostgreSQL**
 
-Python · Node.js · React · Vite · TypeScript · PostgreSQL
+Construo aplicações web, APIs e automações com foco em organização, integração e uso real.
 
-Desenvolvimento web, APIs e automações.
-
-[Projetos](#projeto-em-destaque) · [GitHub](https://github.com/vgpgod?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/victor-gabriel-38b101354/) · [E-mail](mailto:victorrochapires48@gmail.com)
+[**Projetos**](#projeto-em-destaque) &nbsp;·&nbsp; [**Atividade**](#atividade-no-github) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/victor-gabriel-38b101354/) &nbsp;·&nbsp; [**E-mail**](mailto:victorrochapires48@gmail.com)
 
 </div>
 
 ---
 
-## Sobre
+## Sobre mim
 
-Comecei a estudar programação aos 16 anos. Desde então, tenho dedicado meu tempo a desenvolver aplicações web e a entender como diferentes partes de um sistema se conectam: interface, API, regras de negócio e banco de dados.
+Sou desenvolvedor **Full Stack** e trabalho principalmente com **Python, React e PostgreSQL**. Comecei a estudar programação aos 16 anos e, desde então, venho aprofundando meus conhecimentos em aplicações web, comunicação entre sistemas, APIs e bancos de dados.
 
-Meu foco atual é desenvolvimento Full Stack, especialmente com Python, React e PostgreSQL. Gosto de trabalhar em produtos que tenham uso prático, investigar problemas e melhorar a estrutura do código conforme o projeto cresce.
+Gosto de compreender o problema antes de escrever o código, estruturar soluções que possam evoluir e cuidar da experiência de quem vai utilizá-las.
 
-Busco oportunidades para trabalhar com desenvolvimento de software, preferencialmente de forma remota.
+Tenho interesse em oportunidades de desenvolvimento **Full Stack, backend e web**, inclusive em formato remoto.
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,vite,ts,postgres&theme=dark" alt="Python, Node.js, React, Vite, TypeScript e PostgreSQL" />
-
-</div>
+| Área | Tecnologias |
+| :-- | :-- |
+| **Backend e automação** | Python, Node.js, APIs REST |
+| **Frontend** | React, Vite, TypeScript, JavaScript |
+| **Banco de dados** | PostgreSQL |
+| **Integrações** | Discord API, OAuth2 |
+| **Fluxo de desenvolvimento** | Git, GitHub |
 
 ## Projeto em destaque
 
 ### Isekai Bot
 
-<img src="https://img.shields.io/badge/Discord-Bot%20%2B%20Dashboard-DC143C?style=flat-square&logo=discord&logoColor=white" alt="Bot e dashboard para Discord" /> <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-333333?style=flat-square" alt="Em desenvolvimento" />
+**Automação para comunidades Discord com gerenciamento pelo navegador.**
 
-**Bot para Discord com painel de gerenciamento web**
+O Isekai Bot integra um bot em Python, uma API e um painel web para administrar e configurar funcionalidades em diferentes servidores do Discord.
 
-O Isekai Bot é um projeto de gerenciamento de comunidades no Discord. Ele reúne funcionalidades de administração e configuração em um painel web conectado ao bot.
+O projeto envolve:
 
-O sistema envolve diferentes partes que precisam trabalhar juntas:
+- **Bot em Python:** comandos, eventos e automações no Discord.
+- **API e integração:** comunicação entre as configurações do painel, o bot e o banco de dados.
+- **Dashboard em React:** interface de gerenciamento por servidor.
+- **PostgreSQL:** persistência das configurações e dos dados necessários.
+- **OAuth2 do Discord:** autenticação para acesso ao painel.
 
-- **Bot em Python:** executa comandos e interage com eventos do Discord.
-- **API:** faz a comunicação entre o painel, o bot e os dados do servidor.
-- **Painel web:** permite configurar recursos por servidor usando uma interface em React.
-- **PostgreSQL:** armazena configurações e informações necessárias ao funcionamento do sistema.
-- **Autenticação:** utiliza o login do Discord para acesso ao painel.
+É um projeto em evolução, no qual trabalho com arquitetura, permissões, consistência de dados e experiência do usuário.
 
-Uma parte importante do desenvolvimento tem sido lidar com integrações, permissões e consistência entre o que é configurado no navegador e o que o bot executa no Discord.
+**Stack:** `Python` · `React` · `Vite` · `PostgreSQL` · `Discord OAuth2`
 
-**Tecnologias do projeto:** Python, React, Vite, PostgreSQL e Discord OAuth2.
+[**Conhecer o Isekai Bot**](https://isekaiblox.com.br/) &nbsp;·&nbsp; [**Comunidade no Discord**](https://discord.gg/SdkU86bQwq)
 
-[Conhecer o Isekai Bot](https://isekaiblox.com.br/) · [Comunidade no Discord](https://discord.gg/SdkU86bQwq)
-
-> Projeto em desenvolvimento. O repositório principal é privado.
+> O código principal está em um repositório privado.
 
 ## Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vgpgod&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=E56A79&text_color=E8E8EB&icon_color=DC143C&locale=pt-br" alt="Estatísticas públicas do GitHub de vgpgod" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/overview.dark.svg" />
+  <img src="./assets/stats/overview.light.svg" width="100%" alt="Resumo das estatísticas de contribuições, repositórios e atividade do perfil GitHub" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgpgod&layout=compact&hide_border=true&bg_color=0B0B0E&title_color=E56A79&text_color=E8E8EB&locale=pt-br" alt="Linguagens dos repositórios públicos" />
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/contributions.dark.svg" />
+  <img src="./assets/stats/contributions.light.svg" width="100%" alt="Histórico de contribuições e sequências de atividade no GitHub" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/momentum.dark.svg" />
+  <img src="./assets/stats/momentum.light.svg" width="100%" alt="Evolução da atividade de contribuição no GitHub" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/languages.dark.svg" />
+  <img src="./assets/stats/languages.light.svg" width="100%" alt="Linguagens identificadas nos repositórios públicos do GitHub" />
+</picture>
 
 </div>
 
-Uso o GitHub para acompanhar versões, registrar alterações e organizar a evolução dos projetos. Parte do meu trabalho está em repositórios privados.
+Os gráficos são gerados por **GitHub Actions** e armazenados neste repositório, sem depender de servidores públicos de estatísticas. A atualização está **agendada a cada seis horas** e também pode ser iniciada manualmente em [**Actions → Atualizar estatísticas do perfil**](https://github.com/vgpgod/vgpgod/actions/workflows/profile-metrics.yml).
 
-[Ver repositórios](https://github.com/vgpgod?tab=repositories) · [Ver contribuições](https://github.com/vgpgod) · [Ver atividade](https://github.com/vgpgod?tab=overview)
+*Os dados seguem a visibilidade e as permissões do GitHub. O trabalho em repositórios privados pode não aparecer nas métricas públicas.*
 
 ## Contato
 
-Tenho interesse em oportunidades de desenvolvimento Full Stack, backend e aplicações web.
+Para conversar sobre projetos, desenvolvimento ou oportunidades profissionais:
 
-- **E-mail:** [victorrochapires48@gmail.com](mailto:victorrochapires48@gmail.com)
-- **LinkedIn:** [Victor Gabriel](https://www.linkedin.com/in/victor-gabriel-38b101354/)
-- **GitHub:** [@vgpgod](https://github.com/vgpgod)
+**[E-mail](mailto:victorrochapires48@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/victor-gabriel-38b101354/)** &nbsp;·&nbsp; **[GitHub](https://github.com/vgpgod)**
 
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0E,55:430F20,100:0B0B0E&height=85&section=footer" alt="Rodapé escuro com detalhe vermelho" />
+<sub>Desenvolvimento com foco em soluções claras, funcionais e sustentáveis.</sub>
 
 </div>
