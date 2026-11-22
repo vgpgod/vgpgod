@@ -1,0 +1,36 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile-metrics.yml"
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'vgpgod/vgpgod'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preparar repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar gráficos do perfil (claro e escuro)
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: vgpgod
+          cards: overview,contributions,languages,momentum
+          output-dir: assets/stats
+          themes: light,dark
+          palette: orange
+          commit: true
+          commit-message: "chore: atualizar métricas do perfil [skip ci]"
