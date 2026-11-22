@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="74" viewBox="0 0 315 74" role="img" aria-label="Entrar na comunidade do Isekai Bot no Discord">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#4754C7"/>
+      <stop offset="1" stop-color="#6673F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="315" height="74" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="313" height="72" rx="13" stroke="#CBD0FF" stroke-opacity=".40" fill="none"/>
+  <rect x="12" y="12" width="50" height="50" rx="12" fill="#FFFFFF" fill-opacity=".15"/>
+  <path d="M26 27Q38 22 49 27L52 42Q46 48 42 49L40 45Q38 47 34 45L32 49Q27 47 23 42Z" fill="#FFFFFF"/>
+  <circle cx="32" cy="36" r="2.6" fill="#5663E5"/>
+  <circle cx="43" cy="36" r="2.6" fill="#5663E5"/>
+  <text x="76" y="33" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Comunidade no Discord</text>
+  <text x="77" y="53" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" letter-spacing="1.1" font-weight="600" fill="#E5E8FF">ACOMPANHE O PROJETO</text>
+</svg>
